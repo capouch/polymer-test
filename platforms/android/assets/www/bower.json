@@ -1,0 +1,29 @@
+{
+  "name": "www",
+  "version": "0.0.0",
+  "authors": [
+    "Brian Capouch <brianc@saintjoe.edu>"
+  ],
+  "description": "Testing something new",
+  "main": "test.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "help"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5",
+    "webcomponentsjs": "Polymer/webcomponentsjs#~0.5.5",
+    "core-elements": "Polymer/core-elements#~0.5.5",
+    "paper-elements": "Polymer/paper-elements#~0.5.5"
+  }
+}
